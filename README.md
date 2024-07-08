@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rohan165-boop
+- 👋 Hi, I’m @rohan-165
 - 👀 I’m interested in animation.
-- 🌱 I’m currently learning flutter wireframe
+- 🌱 I’m currently working on YAJ Tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohanchy165@gmail.com
 
