@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rohan-165
+  A passionate software developer with expertise in Mobile Application Development (Flutter).
 - 👀 I’m interested in animation.
-- 🌱 I’m currently working on YAJ Tech
+- 🌱 I’m currently working on Nagarik App.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohanchy165@gmail.com
 
