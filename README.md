@@ -30,6 +30,8 @@ A passionate **Mobile Application Developer** with a strong focus on **Flutter**
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF4500?logo=bell&logoColor=white)](https://developer.android.com/guide/topics/ui/notifiers/notifications)
+
 
 ---
 
