@@ -73,7 +73,12 @@ I’m always open to working on interesting projects and collaborations. Whether
 
 ### My GitHub Stats:
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-165&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-165&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-165&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-165&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### My GitHub Activity:
 
