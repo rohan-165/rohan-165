@@ -12,15 +12,24 @@ A passionate **Mobile Application Developer** with a strong focus on **Flutter**
 - 📈 Strong expertise in **state management**, **API integration**, **custom libraries**, and **real-time communication**.
 - ⚡ **Intelligent solutions** for complex problems, integrating smart features for enhanced user experience.
 
----
+  ---
+
 
 ## 🛠️ Technologies & Tools
-- **Languages**: **Flutter (Dart)** | **Kotlin**
-- **Frameworks**: **Flutter** | **Android (Kotlin)**
-- **Libraries & Tools**: **Bloc** | **GetIt** | **DIO** | **Socket.IO** | **Firebase** |**Push Notification**
-- **Version Control**: GitHub | GitLab
-- **IDEs**: **Android Studio** | **Visual Studio Code** | **IntelliJ IDEA**
-- **Tools**: Figma, Postman
+
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)](https://firebase.google.com)
+[![BLoC](https://img.shields.io/badge/BLoC-0079D7?logo=flutter&logoColor=white)](https://bloclibrary.dev)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket-dot-io&logoColor=white)](https://socket.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
 
@@ -67,20 +76,6 @@ I’m always open to working on interesting projects and collaborations. Whether
 ### My GitHub Activity:
 
 ![Rohan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohan-165&theme=dracula)
-
----
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)](https://firebase.google.com)
-[![BLoC](https://img.shields.io/badge/BLoC-0079D7?logo=flutter&logoColor=white)](https://bloclibrary.dev)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket-dot-io&logoColor=white)](https://socket.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
-
 
 ---
 
