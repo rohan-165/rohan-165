@@ -51,7 +51,7 @@ I’m always open to working on interesting projects and collaborations. Whether
 ## 📫 How to Reach Me
 - Email: [rohanchy165@gmail.com](mailto:rohanchy165@gmail.com)
 - GitHub: [@rohan-165](https://github.com/rohan-165)
-- LinkedIn: [Rohan Kumar Chaudhary](www.linkedin.com/in/rohan-chaudhary-345408247)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-chy)
 
 ---
 
@@ -80,9 +80,6 @@ I’m always open to working on interesting projects and collaborations. Whether
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-165&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### My GitHub Activity:
-
-![Rohan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohan-165&theme=dracula)
 
 ---
 
