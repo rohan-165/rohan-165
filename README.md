@@ -6,10 +6,10 @@ A passionate **Mobile Application Developer** with a strong focus on **Flutter**
 
 ## 🚀 About Me
 - 🔥 **Flutter Enthusiast** with over **Three years of experience** in building cross-platform mobile apps.
-- 💡 Currently working on multiple project like :- **Nagarik App** , **Ambition Guru**, a real-time mobile app aimed at improving citizen engagement and services.
+- 💡 Previously worked on project like :- **Nagarik App** , **Ambition Guru**, a E-learing mobile app and improving citizen engagement and provide government services — where I made significant contributions.
 - 🎨 Passionate about **animations** and **UI/UX design**, always striving to bring creativity to every project.
 - 🔄 Open to **collaborations** and always looking for new challenges to expand my knowledge and skills.
-- 📈 Strong expertise in **state management**, **API integration**, **custom libraries**, and **real-time communication**.
+- 📈 Strong expertise in **state management**, **API integration**, **custom libraries**, **payment gateways** and **Socket.IO**.
 - ⚡ **Intelligent solutions** for complex problems, integrating smart features for enhanced user experience.
 
   ---
