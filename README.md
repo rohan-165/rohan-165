@@ -49,9 +49,10 @@ I’m always open to working on interesting projects and collaborations. Whether
 ---
 
 ## 📫 How to Reach Me
-- Email: [rohanchy165@gmail.com](mailto:rohanchy165@gmail.com)
-- GitHub: [@rohan-165](https://github.com/rohan-165)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-chy)
+- Email: [rohanchy165@gmail.com](mailto:rohanchy165@gmail.com)  
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-chy)  
+- Website: [![Website](https://img.shields.io/badge/rohankumar.com.np-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://rohankumar.com.np)  
+- GitHub Portfolio: [![GitHub Pages](https://img.shields.io/badge/rohan--165.github.io--Rohan-121013?style=flat&logo=github&logoColor=white)](https://rohan-165.github.io/Rohan/)
 
 ---
 
