@@ -31,6 +31,10 @@ A passionate **Mobile Application Developer** with a strong focus on **Flutter**
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF4500?logo=bell&logoColor=white)](https://developer.android.com/guide/topics/ui/notifiers/notifications)
+[![SQL Database](https://img.shields.io/badge/SQL_Database-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Isolates](https://img.shields.io/badge/Dart_Isolates-0175C2?logo=dart&logoColor=white)](https://dart.dev/guides/language/concurrency)
+[![HTTP Toolkit](https://img.shields.io/badge/HTTP_Toolkit-1A1A1A?logo=http&logoColor=white)](https://httptoolkit.tech)
+
 
 
 ---
