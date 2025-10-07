@@ -75,9 +75,7 @@ I’m always open to working on interesting projects and collaborations. Whether
 - I love **creative programming** and enjoy making things fun, whether it’s with **animations**, **interactive UI elements**, or building **intelligent features**. I believe in learning by creating and sharing knowledge.
 
 ---
-## 📈 GitHub Stats & Contributions
-
-### My GitHub Stats:
+## 📈 GitHub Top Languages
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-165&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
