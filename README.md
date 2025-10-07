@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Rohan Kumar Chaudhary! 
+**Mobile Application Developer | Flutter & Kotlin Enthusiast | UI/UX & Animations Advocate**
 
-A passionate **Mobile Application Developer** with a strong focus on **Flutter** and **Kotlin**. I specialize in creating beautiful, high-performance mobile apps with a focus on smooth animations, seamless user experiences, and intelligent solutions.
+I craft high-performance mobile apps with smooth animations, intuitive UI, and intelligent solutions that enhance user experience.
 
 ---
 
 ## 🚀 About Me
-- 🔥 **Flutter Enthusiast** with over **Three years of experience** in building cross-platform mobile apps.
+- 🔥 **Flutter Enthusiast** with over **Years of experience** in building cross-platform mobile apps.
 - 💡 Previously worked on project like :- **Nagarik App** , **Ambition Guru**, a E-learing mobile app and improving citizen engagement and provide government services — where I made significant contributions.
 - 🎨 Passionate about **animations** and **UI/UX design**, always striving to bring creativity to every project.
 - 🔄 Open to **collaborations** and always looking for new challenges to expand my knowledge and skills.
@@ -78,12 +79,8 @@ I’m always open to working on interesting projects and collaborations. Whether
 
 ### My GitHub Stats:
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-165&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-165&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-165&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 ---
